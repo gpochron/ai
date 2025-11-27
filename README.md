@@ -4,6 +4,7 @@ My favorite resources for AI and LLMs. This is a work in progress.
 ## Websites/Blogs
  * [Anthropic Blog](https://www.claude.com/blog) - Anthropic's blog for (primarily) Claude Code.
  * [HuggingFace](https://huggingface.co/) - Huggingface's site for community driven model and dataset development.
+ * [Every](https://every.to/) - The team at Every is very transparent about how their team is using AI. Tons of quality content here.
 
 ## Courses/Tutorials
  * [Anthropic Academy](https://www.anthropic.com/learn) - Courses and tutorials for working with Anthropic and Claude.
